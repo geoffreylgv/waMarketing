@@ -72,5 +72,5 @@ waMarketing/
 * xlrd
 
 ## License
-> [!NOTE] This project is open source and freely available under the GNU GPL V3. 
-> Help giving a star to the project and get your hands dirty by contributing to it, having the send feature automatically without clicking on any button.
+> [!NOTE] 
+> This project is open source and freely available under the GNU GPL V3. <br> Help giving a star to the project and get your hands dirty by contributing to it, having the send feature automatically without clicking on any button.
