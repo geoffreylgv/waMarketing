@@ -13,7 +13,7 @@ This Python script automates sending messages to WhatsApp contacts using data fr
 1. Clone the repository
 
 ```bash
-git clone https://github.com/geoffreylgv/wa.git
+git clone https://github.com/geoffreylgv/waMarketing.git
 cd waMarketing
 ```
 
